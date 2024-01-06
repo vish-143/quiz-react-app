@@ -61,7 +61,7 @@ function QuestionCard({ currqus, question, prevfunc, nextfunc }) {
     }, [currqus]);
     return (
         <>
-            <Card className='shadow-lg  quscard'>
+            <Card className='shadow-lg  quscard background'>
                 <Card.Body className='border-bottom-none'>
                     <Card.Title>Simple Quiz Application</Card.Title>
                     <Card.Text>

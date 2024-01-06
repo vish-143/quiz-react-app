@@ -1,3 +1,11 @@
+body {
+  background: linear-gradient(90deg, rgba(117, 85, 147, 1) 0%, rgba(147, 106, 163, 1) 6%, rgba(194, 144, 196, 1) 16%, rgba(249, 188, 234, 1) 60%, rgba(196, 147, 199, 1) 83%, rgba(177, 132, 187, 1) 92%, rgba(117, 85, 147, 1) 100%);
+}
+
+.background {
+  background: #FAEED1;
+}
+
 .App {
   text-align: center;
 }
